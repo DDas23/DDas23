@@ -1,5 +1,5 @@
 ## the unfathomable.
-<img src="![openai-and-microsoft-extend-partnership](https://github.com/DDas23/DDas23/assets/123860665/0732b1ea-6199-4e35-975e-e168d50c9e04)" alt="Alt text" width="500" height="300">
+<img src="![openai-and-microsoft-extend-partnership](https://github.com/DDas23/DDas23/assets/123860665/0732b1ea-6199-4e35-975e-e168d50c9e04)" width="500" height="300">
 
 <!--
 **DDas23/DDas23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
